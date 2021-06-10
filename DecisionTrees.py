@@ -1,6 +1,5 @@
 # importing libraries and methods
 
-import os
 import pandas as pd
 import pydotplus
 from sklearn import preprocessing

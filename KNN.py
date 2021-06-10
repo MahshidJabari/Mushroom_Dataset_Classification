@@ -1,5 +1,4 @@
 # importing libraries and methods
-import os
 
 import pandas as pd
 from sklearn import preprocessing
